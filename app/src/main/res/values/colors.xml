@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    Frosty Aura Light  -->
+
+    <color name="frosty_aura_md_theme_primary">#006493</color>
+    <color name="frosty_aura_md_theme_onPrimary">#FFFFFF</color>
+    <color name="frosty_aura_md_theme_primaryContainer">#32B5FF</color>
+    <color name="frosty_aura_md_theme_onPrimaryContainer">#002337</color>
+    <color name="frosty_aura_md_theme_secondary">#006876</color>
+    <color name="frosty_aura_md_theme_onSecondary">#FFFFFF</color>
+    <color name="frosty_aura_md_theme_secondaryContainer">#26C7DF</color>
+    <color name="frosty_aura_md_theme_onSecondaryContainer">#002F36</color>
+    <color name="frosty_aura_md_theme_tertiary">#006688</color>
+    <color name="frosty_aura_md_theme_onTertiary">#FFFFFF</color>
+    <color name="frosty_aura_md_theme_tertiaryContainer">#5FCCFF</color>
+    <color name="frosty_aura_md_theme_onTertiaryContainer">#00364A</color>
+    <color name="frosty_aura_md_theme_error">#0061A4</color>
+    <color name="frosty_aura_md_theme_onError">#FFFFFF</color>
+    <color name="frosty_aura_md_theme_errorContainer">#3CA3FF</color>
+    <color name="frosty_aura_md_theme_onErrorContainer">#001226</color>
+    <color name="frosty_aura_md_theme_background">#F6F9FF</color>
+    <color name="frosty_aura_md_theme_onBackground">#171C21</color>
+    <color name="frosty_aura_md_theme_surface">#F6F9FF</color>
+    <color name="frosty_aura_md_theme_onSurface">#171C21</color>
+    <color name="frosty_aura_md_theme_surfaceVariant">#DAE4EF</color>
+    <color name="frosty_aura_md_theme_onSurfaceVariant">#3E4851</color>
+    <color name="frosty_aura_md_theme_outline">#6E7882</color>
+    <color name="frosty_aura_md_theme_outlineVariant">#BEC8D2</color>
+    <color name="frosty_aura_md_theme_scrim">#000000</color>
+    <color name="frosty_aura_md_theme_inverseSurface">#2C3136</color>
+    <color name="frosty_aura_md_theme_inverseOnSurface">#EDF1F8</color>
+    <color name="frosty_aura_md_theme_inversePrimary">#8DCDFF</color>
+    <color name="frosty_aura_md_theme_primaryFixed">#CAE6FF</color>
+    <color name="frosty_aura_md_theme_onPrimaryFixed">#001E30</color>
+    <color name="frosty_aura_md_theme_primaryFixedDim">#8DCDFF</color>
+    <color name="frosty_aura_md_theme_onPrimaryFixedVariant">#004B70</color>
+    <color name="frosty_aura_md_theme_secondaryFixed">#A1EFFF</color>
+    <color name="frosty_aura_md_theme_onSecondaryFixed">#001F25</color>
+    <color name="frosty_aura_md_theme_secondaryFixedDim">#44D8F1</color>
+    <color name="frosty_aura_md_theme_onSecondaryFixedVariant">#004E59</color>
+    <color name="frosty_aura_md_theme_tertiaryFixed">#C2E8FF</color>
+    <color name="frosty_aura_md_theme_onTertiaryFixed">#001E2B</color>
+    <color name="frosty_aura_md_theme_tertiaryFixedDim">#75D1FF</color>
+    <color name="frosty_aura_md_theme_onTertiaryFixedVariant">#004D67</color>
+    <color name="frosty_aura_md_theme_surfaceDim">#D6DAE1</color>
+    <color name="frosty_aura_md_theme_surfaceBright">#F6F9FF</color>
+    <color name="frosty_aura_md_theme_surfaceContainerLowest">#FFFFFF</color>
+    <color name="frosty_aura_md_theme_surfaceContainerLow">#F0F4FA</color>
+    <color name="frosty_aura_md_theme_surfaceContainer">#EAEEF5</color>
+    <color name="frosty_aura_md_theme_surfaceContainerHigh">#E4E8EF</color>
+    <color name="frosty_aura_md_theme_surfaceContainerHighest">#DEE3E9</color>
+
+
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+</resources>

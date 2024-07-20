@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Snap N Search</string>
+
+    <string name="tile_label">Screenshot</string>
+    <string name="tile_floating">Floating Screenshot Button</string>
+    <string name="tile_floating_label">Floating</string>
+    <string name="tile_floating_subtitle">Screenshot Button</string>
+    <string name="setting_floating_button">Snap button</string>
+    <string name="setting_floating_button_summary">Enable a floating button to take screenshots</string>
+    <string name="setting_floating_button_tile">Floating button tile</string>
+    <string name="setting_floating_button_tile_summary">Enable a quick settings tile to show/hide the floating button</string>
+    <string name="accessibility_service_description">Enable Service to take screenshots</string>
+    <string name="setting_floating_button_scale">Floating button size</string>
+    <string name="setting_floating_button_unsupported">Requires Android 9 Pie</string>
+    <string name="setting_enable_assist">Select Snap N Search as your voice assistant to use this feature.</string>
+    <string name="setting_disable_assist">Select a different voice assistant to disable Snap N Search.</string>
+
+    <string name="installed_in_external_storage">App is installed on external storage, this can cause problems  after a reboot with the floating button and the assistant function. Please move the app to internal storage.</string>
+
+    <string name="lens_not_installed">Google Lens is not available. Please install or enable it to use this feature.</string>
+    <string name="screenshot_prevented">Screenshot prevented: Device is locked</string>
+
+
+    <string name="take_screenshot">Take a screenshot</string>
+    <string name="grant_screenshot_permission">Please grant permission to take screenshots.</string>
+<string name="failed_to_acquire_image">Failed to acquire image. Please try again.</string>
+    <string name="failed_to_create_image_reader">Failed to create ImageReader surface</string>
+
+
+    <!-- Google Play Prominent Disclosure & Consent Requirement Dialog -->
+    <string name="googleplay_consent_title">Google Play Prominent Disclosure &amp; Consent Requirement</string>
+    <string name="googleplay_consent_text">Google Play requires prominent disclosure of the Accessibility Services API\’s use for an app that is not an accessibility tool.\n\"Snap N Search\"\ is not an accessibility tool. Since users may not reasonably expect that their personal and sensitive user data will be required to provide or improve the policy-compliant features or functionality within this app, a prominent disclosure of the usage of the Accessibility Services API by this app and a declaration of the data collection and data sharing within this app is required. This app requires access to the Accessibility Services API in order to take a screenshot when the app is not in use. Access to the Accessibility Services API will allow this app to record the screen. Screen recordings will be used to create screenshot images. Data is neither collected nor shared by this app using the accessibility capabilities. \nNo storage permissions or internet access are required, and no personal data is collected, stored, or transmitted.\nDo you agree to authorize this app to gain access to the Accessibility Services API and to use the accessibility capabilities to record the screen?</string>
+    <string name="googleplay_consent_yes">I agree</string>
+    <string name="googleplay_consent_no">I refuse</string>
+
+    <string name="main_floating_button_title">Snap button</string>
+    <string name="main_close_button_title">Show close button</string>
+    <string name="toast_open_accessibility_settings">Please activate \"%1s\" in the accessibility settings</string>
+    <string name="restricted_settings_open_settings">Allow restricted settings</string>
+    <string name="restricted_settings_open_accessibility">Open accessibility settings</string>
+    <string name="restricted_settings_title">Enable accessibility service</string>
+    <string name="restricted_settings_text">If the accessibility settings are grayed out, you will need to allow the \"restricted settings\" first. The \"restricted settings\" can be found in the \"App info\" . Press the 3 dots at top right corner and then allow restricted settings. If you don\'t find the 3 dots at first, navigate through: \nSettings -> Applications -> Snap N Search -> 3 dots -> Allow Restricted Settings </string>
+
+    <string name="main_floating_button_text">Enable the Snap Button through quick settings or an in-app option, and move it around the screen by long-pressing and dragging. Tap the button to take a screenshot, which automatically launches Google Lens for instant results.</string>
+    <string name="main_assist_app_title">Assist app</string>
+    <string name="main_assist_app_text">If you set this app as your assist app, you can long press the home button to take a screenshot and launch Google Lens. Enabling this app as your assist app will disable other assistants. You can change the action of the long home button press in the app settings.</string>
+
+
+    <string name="setting_floating_button_alpha">Floating button transparency</string>
+    <string name="setting_floating_button_alpha_summary">0.0 (fully-transparent) to 1.0 (fully-opaque)</string>
+    <string name="setting_floating_button_color">Floating button color</string>
+
+    <string name="about_title">About</string>
+    <string name="about_description">Snap N Search is a free, open-source Android app that simplifies screenshot capture and visual search using Google Lens. With its user-friendly interface and minimal permissions, it provides a streamlined experience for quickly accessing visual information.</string>
+    <string name="about_features_title">Key Features:</string>
+    <string name="about_feature_1"><b>&#8226;</b> Easy screenshot capture with a floating button (Android 9+) or home button long-press (Android 12+).</string>
+    <string name="about_feature_2"><b>&#8226;</b> Automatic launch of Google Lens for visual searches, object identification, and text translation.</string>
+    <string name="about_feature_3"><b>&#8226;</b> No storage permissions are needed, ensuring your data remains secure.</string>
+    <string name="about_feature_4"><b>&#8226;</b> Open-source for transparency. </string>
+    <string name="about_description_2">Whether you\'re curious about a product or want to translate text from an image, Snap N Search makes it easy. Start exploring with just a snap.</string>
+    <string name="about_note"><b>Note:</b> Google Lens must be installed and enabled for Snap N Search to function properly.</string>
+
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.DarkTheme.SnapNSearch" parent="Theme.Material3.Dark.NoActionBar"/>
+
+
+        <!--    Frosty Aura Dark Theme   -->
+
+        <style name="Theme.SnapNSearch.FrostyAura" parent="Base.DarkTheme.SnapNSearch">
+            <item name="colorPrimary">@color/frosty_aura_md_theme_primary</item>
+            <item name="colorOnPrimary">@color/frosty_aura_md_theme_onPrimary</item>
+            <item name="colorPrimaryContainer">@color/frosty_aura_md_theme_primaryContainer</item>
+            <item name="colorOnPrimaryContainer">@color/frosty_aura_md_theme_onPrimaryContainer</item>
+            <item name="colorSecondary">@color/frosty_aura_md_theme_secondary</item>
+            <item name="colorOnSecondary">@color/frosty_aura_md_theme_onSecondary</item>
+            <item name="colorSecondaryContainer">@color/frosty_aura_md_theme_secondaryContainer</item>
+            <item name="colorOnSecondaryContainer">@color/frosty_aura_md_theme_onSecondaryContainer</item>
+            <item name="colorTertiary">@color/frosty_aura_md_theme_tertiary</item>
+            <item name="colorOnTertiary">@color/frosty_aura_md_theme_onTertiary</item>
+            <item name="colorTertiaryContainer">@color/frosty_aura_md_theme_tertiaryContainer</item>
+            <item name="colorOnTertiaryContainer">@color/frosty_aura_md_theme_onTertiaryContainer</item>
+            <item name="colorError">@color/frosty_aura_md_theme_error</item>
+            <item name="colorOnError">@color/frosty_aura_md_theme_onError</item>
+            <item name="colorErrorContainer">@color/frosty_aura_md_theme_errorContainer</item>
+            <item name="colorOnErrorContainer">@color/frosty_aura_md_theme_onErrorContainer</item>
+            <item name="android:colorBackground">@color/frosty_aura_md_theme_background</item>
+            <item name="colorOnBackground">@color/frosty_aura_md_theme_onBackground</item>
+            <item name="colorSurface">@color/frosty_aura_md_theme_surface</item>
+            <item name="colorOnSurface">@color/frosty_aura_md_theme_onSurface</item>
+            <item name="colorSurfaceVariant">@color/frosty_aura_md_theme_surfaceVariant</item>
+            <item name="colorOnSurfaceVariant">@color/frosty_aura_md_theme_onSurfaceVariant</item>
+            <item name="colorOutline">@color/frosty_aura_md_theme_outline</item>
+            <item name="colorOutlineVariant">@color/frosty_aura_md_theme_outlineVariant</item>
+            <item name="colorSurfaceInverse">@color/frosty_aura_md_theme_inverseSurface</item>
+            <item name="colorOnSurfaceInverse">@color/frosty_aura_md_theme_inverseOnSurface</item>
+            <item name="colorPrimaryInverse">@color/frosty_aura_md_theme_inversePrimary</item>
+            <item name="colorPrimaryFixed">@color/frosty_aura_md_theme_primaryFixed</item>
+            <item name="colorOnPrimaryFixed">@color/frosty_aura_md_theme_onPrimaryFixed</item>
+            <item name="colorPrimaryFixedDim">@color/frosty_aura_md_theme_primaryFixedDim</item>
+            <item name="colorOnPrimaryFixedVariant">@color/frosty_aura_md_theme_onPrimaryFixedVariant</item>
+            <item name="colorSecondaryFixed">@color/frosty_aura_md_theme_secondaryFixed</item>
+            <item name="colorOnSecondaryFixed">@color/frosty_aura_md_theme_onSecondaryFixed</item>
+            <item name="colorSecondaryFixedDim">@color/frosty_aura_md_theme_secondaryFixedDim</item>
+            <item name="colorOnSecondaryFixedVariant">@color/frosty_aura_md_theme_onSecondaryFixedVariant</item>
+            <item name="colorTertiaryFixed">@color/frosty_aura_md_theme_tertiaryFixed</item>
+            <item name="colorOnTertiaryFixed">@color/frosty_aura_md_theme_onTertiaryFixed</item>
+            <item name="colorTertiaryFixedDim">@color/frosty_aura_md_theme_tertiaryFixedDim</item>
+            <item name="colorOnTertiaryFixedVariant">@color/frosty_aura_md_theme_onTertiaryFixedVariant</item>
+            <item name="colorSurfaceDim">@color/frosty_aura_md_theme_surfaceDim</item>
+            <item name="colorSurfaceBright">@color/frosty_aura_md_theme_surfaceBright</item>
+            <item name="colorSurfaceContainerLowest">@color/frosty_aura_md_theme_surfaceContainerLowest</item>
+            <item name="colorSurfaceContainerLow">@color/frosty_aura_md_theme_surfaceContainerLow</item>
+            <item name="colorSurfaceContainer">@color/frosty_aura_md_theme_surfaceContainer</item>
+            <item name="colorSurfaceContainerHigh">@color/frosty_aura_md_theme_surfaceContainerHigh</item>
+            <item name="colorSurfaceContainerHighest">@color/frosty_aura_md_theme_surfaceContainerHighest</item>
+
+
+    </style>
+</resources>
