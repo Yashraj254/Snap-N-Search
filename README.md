@@ -43,20 +43,20 @@ their screen.
 
 **On Android 9+:** Tap the snap/floating button.
 
-<video src="./media/float_button.mp4" controls></video>
+https://github.com/user-attachments/assets/cb8b49b7-5860-4ae3-9777-8bb8b3184e14
 
 **Note:** If the app name is greyed out, you need to allow restricted settings. Follow the on-screen
 instructions to enable it.
 
-<video src="./media/allow_restricted_settings.mp4" controls></video>
+https://github.com/user-attachments/assets/5ececb8a-6d4b-42a7-b5e2-ba5332f06191
 
 **On Android 12+:** Long-press the home button (after setting Snap N Search as default assistant).
 
-<video src="./media/assist_button.mp4" controls></video>
+https://github.com/user-attachments/assets/641b9364-bb24-4dff-9231-9846b07d8c42
 
 **On Android 12+:** Use gestures (swipe up from bottom corners of the screen).
 
-<video src="./media/assist_gesture.mp4" controls></video>
+https://github.com/user-attachments/assets/e1ec424f-2716-4d8f-9144-589b5b04dd3a
 
 ## Credits
 
