@@ -23,7 +23,7 @@
 
     <string name="take_screenshot">Take a screenshot</string>
     <string name="grant_screenshot_permission">Please grant permission to take screenshots.</string>
-<string name="failed_to_acquire_image">Failed to acquire image. Please try again.</string>
+    <string name="failed_to_acquire_image">Failed to acquire image. Please try again.</string>
     <string name="failed_to_create_image_reader">Failed to create ImageReader surface</string>
 
 

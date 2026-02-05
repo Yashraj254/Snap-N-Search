@@ -7,14 +7,14 @@ plugins {
 
 android {
     namespace = "com.yashraj.snapnsearch"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.yashraj.snapnsearch"
         minSdk = 28
-        targetSdk = 34
-        versionCode = 7
-        versionName = "1.6"
+        targetSdk = 36
+        versionCode = 10
+        versionName = "1.8"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

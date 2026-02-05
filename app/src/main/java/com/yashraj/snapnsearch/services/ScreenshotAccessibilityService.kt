@@ -231,7 +231,7 @@ class ScreenshotAccessibilityService : AccessibilityService() {
                         if (!dragDone) {
                             val x: Int
                             val y: Int
-                            if (event.action == DragEvent.ACTION_DROP) {
+                            if (Build.VERSION.SDK_INT > Build.VERSION_CODES.TIRAMISU || event.action == DragEvent.ACTION_DROP) {
                                 // x and y are relative to the inside of the view's bounding box
                                 val old = prefManager.floatingButtonPosition
 
